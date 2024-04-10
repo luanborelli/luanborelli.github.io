@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post_template.md",
+                "file": "2024-04-09-test-post.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "post_template.md",
+                "file": "2024-04-09-test-post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "post_template.md",
+                "file": "2024-04-09-test-post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "post_template.md"
+                "file": "2024-04-09-test-post.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "4159ee58dbf02159",
   "lastOpenFiles": [
-    "2020-07-06-strange-post.md",
     "post_template.md",
+    "2020-07-06-strange-post.md",
     "2020-07-07-overview-post.md",
     "2020-07-08-language-tests.md",
     "2020-07-08-very-very-very-long-title-and-very-very-very-short-content.md",
