@@ -37,8 +37,7 @@ Aos que se acanhem diante da estranheza de tais perspectivas, a leitura do livro
 ---
 {: data-content="//"}
 
-
-![[Pasted image 20240416003847.png]]
+![Valor Econômico](https://raw.githubusercontent.com/luanborelli/luanborelli.github.io/master/_posts/Pasted%20image%2020240416003847.png)
 
 ---
 {: data-content="footnotes"}
