@@ -1,3 +1,7 @@
 {
-  "accentColor": ""
+  "accentColor": "#d23c3c",
+  "textFontFamily": "DejaVu Sans Mono",
+  "interfaceFontFamily": "DejaVu Sans Mono",
+  "cssTheme": "Vanilla AMOLED",
+  "theme": "obsidian"
 }
