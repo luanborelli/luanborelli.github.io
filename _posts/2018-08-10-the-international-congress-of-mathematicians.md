@@ -16,7 +16,7 @@ I also contributed to an IMPA press [article](https://impa.br/noticias/voluntari
 
 This is me with [Akshay Venkatesh](https://en.wikipedia.org/wiki/Akshay_Venkatesh) during the congress. Venkatesh was one of the 2018 [Fields](https://en.wikipedia.org/wiki/Fields_Medal) medalists, awarded for his synthesis of analytic number theory, homogeneous dynamics, topology, and representation theory, which has resolved long-standing problems in areas such as the equidistribution of arithmetic objects.
 
-![Akshay Venkatesh](https://raw.githubusercontent.com/luanborelli/luanborelli.github.io/master/_posts/av.png)
+![Akshay Venkatesh](https://raw.githubusercontent.com/luanborelli/luanborelli.github.io/master/_posts/av.jpg)
 
 Venkatesh boasts an incredible track record: he turned 13 just before entering the University of Western Australia as its youngest ever student. He completed the four-year course in three years and became, at 16, the youngest person to earn First Class Honours in pure mathematics from the university. He commenced his PhD at [Princeton University](https://en.wikipedia.org/wiki/Princeton_University "Princeton University") in 1998 under, which he completed in 2002. Today he is a professor at the School of Mathematics at the [Institute for Advanced Study](https://en.wikipedia.org/wiki/Institute_for_Advanced_Study).
 
