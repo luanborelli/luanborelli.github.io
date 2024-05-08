@@ -22,7 +22,7 @@ Venkatesh boasts an incredible track record: he turned 13 just before entering t
 
 In this register I hold the book [*Men of Mathematics*](https://en.wikipedia.org/wiki/Men_of_Mathematics), by [Eric Temple Bell](https://en.wikipedia.org/wiki/Eric_Temple_Bell), which I was reading at the time.[^1] Pointing to the book, I asked Venkatesh: "*How do you feel now, being one of them?*". The reaction is exactly what you see in the photo.
 
-If you want to learn more about Venkatesh's story and his contributions to mathematics, I highly recommend the excellent profile "[A Number Theorist Who Bridges Math and Time](https://www.quantamagazine.org/fields-medalist-akshay-venkatesh-bridges-math-and-time-20180801/)" written by Erica Klarreich for [Quanta Magazine](https://www.quantamagazine.org/).
+If you want to learn more about Venkatesh's story and his contributions to mathematics, I highly recommend the excellent profile "[*A Number Theorist Who Bridges Math and Time*](https://www.quantamagazine.org/fields-medalist-akshay-venkatesh-bridges-math-and-time-20180801/)" written by Erica Klarreich for [Quanta Magazine](https://www.quantamagazine.org/).
 
 ---
 {: data-content="footnotes"}
