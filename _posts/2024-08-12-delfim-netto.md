@@ -14,4 +14,4 @@ Delfim teve participação importante na formação da economia acadêmica no Br
 ---
 {: data-content="//"}
 
-![Delfim Netto](https://raw.githubusercontent.com/luanborelli/luanborelli.github.io/master/_posts/Pasted%20image$2020240814000356.png) 
+![Delfim Netto](https://github.com/luanborelli/luanborelli.github.io/blob/master/_posts/Pasted%20image%2020240814000356.png?raw=true) 
