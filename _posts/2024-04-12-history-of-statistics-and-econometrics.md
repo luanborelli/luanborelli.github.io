@@ -7,14 +7,40 @@ I regularly update this blog entry with references on the history of Statistics 
 ### On the General History of Econometrics
 
 - Morgan, M.S., 1990. [*The history of econometric ideas*](https://www.cambridge.org/core/books/history-of-econometric-ideas/05767BCEAD34F65C7B4A89A3A772BBCF). Cambridge University Press.
+- Qin, D., 1997. [The Formation of Econometrics: A Historical Perspective](https://global.oup.com/academic/product/the-formation-of-econometrics-9780198292876?lang=en&cc=gb). Oxford University Press.
+- Qin, D., 2013. A History of Econometrics: The Reformation from the 1970s. OUP Oxford.
+- Qin, D., 2023. Rescuing Econometrics: From the Probability Approach to Probably Approximately Correct Learning. Taylor & Francis.
+- Gilbert, C. L., Qin, D., 1996. Two Essays on the Methodology of Econometrics. Belgium: Department of Economics, Queen Mary and Westfield College.
+- Gilbert, C. L., 1988. The Development of Econometrics in Britain Since 1945. (n.p.): University of Oxford.
+- Qin, D., 2013. The Rise of Econometrics. (2013). United Kingdom: Routledge.
+- Le Gall, P., 2007. A History of Econometrics in France: From Nature to Models. United Kingdom: Taylor & Francis.
+- Qin, D., 2008. Rise of VAR Modelling Approach. (n.p.): SSRN.
+- Qin, D., Gilbert, C. L., 1997. *The Error Term in the History of Time Series Econometrics*. Department of Economics, Queen Mary and Westfield College.
+- Qin, D., 1994. *Has Bayesian Estimation Principle Ever Used Bayes' Rule?*. Queen Mary and Westfield College, Department of Economics.
+- Qin, D., 1993. *Rise of Bayesian Econometrics*. Queen Mary and Westfield College, Department of Economics.
+- Qin, D., 2014. *Resurgence of Instrument Variable Estimation and Fallacy of Endogeneity*. Kiel Institute for the World Economy.
+- Darnell, A.C., 1994. _The history of econometrics_. Edward Elgar Publishing.
 - Tintner, G., 1953. [*The definition of econometrics*](https://www.jstor.org/stable/1906941). _Econometrica: Journal of the Econometric Society_, pp.31-40.
 - Bollerslev, T., 2023. [The story of GARCH: A personal odyssey](https://public.econ.duke.edu/~boller/Papers/GARCH_JoE_2023.pdf). _Journal of Econometrics_, _234_, pp.96-100.
+- Gilbert, C.L., 1989. *LSE and the British approach to time series econometrics*. Oxford Economic Papers, _41_(1), pp.108-128.
+- Marchi, N.D. and Gilbert, C.L., 1989. History and methodology of econometrics. Oxford economic papers, _41_(1).
+- Gilbert, C.L. and Qin, D., 2007. _Representation in econometrics: A historical perspective_.
+- Gilbert, C.L., 1989. *Economic theory and econometric models*. _The Economic and Social Review_, _21_(1), pp.1-25.
+- Gilbert, C.L., 1986. Professor Hendry’s econometric methodology. _Modelling Economic Series. Oxford: Oxford University Press. Earlier publised in Oxford Bulletin of Economics and Statistics_, _48_, pp.283-307.
+- de Marchi, N. and Gilbert, C.L., 1989. History and Methodology of Econometrics: Introduction. _Oxford Economic Papers_, _41_(1), pp.1-11.
+- Phillips, P.C., 1988. Reflections on econometric methodology. _Economic Record_, _64_(4), pp.344-359.
+- Epstein, R., 2014. A History of Econometrics. Netherlands: Elsevier Science.
+- Dekker, E., 2021. Jan Tinbergen (1903-1994) and the Rise of Economic Expertise. Cambridge University Press.
 - [*ET interviews*](https://www.cambridge.org/core/journals/econometric-theory/et-interviews). The [*Econometric Theory*](https://www.cambridge.org/core/journals/econometric-theory) interview series with notable econometricians.
+- Salsburg, D. 2002. The Lady Tasting Tea: How Statistics Revolutionized Science in the Twentieth Century. United States: Henry Holt and Company.
+- Lehmann, E. L., 2011. Fisher, Neyman, and the Creation of Classical Statistics. Netherlands: Springer New York.
+- Lehmann, E.L., 2008. _Reminiscences of a statistician: The company I kept_ (pp. 116-119). New York: Springer.
 
 ### On the General History of Statistics and Probability
 
 - [*Studies in the History of Statistics and Probability*](https://www.york.ac.uk/depts/maths/histstat/bib/studies.htm). The two collections _Studies in the History of Statistics and Probability_, edited by E S Pearson and M G Kendall, Griffin 1970, and *Studies in the History of Statistics and Probability, Volume II*, edited by M G Kendall and R L Plackett, Griffin 1977, contain all of numbers I to XXXII of the occasional series *Studies in the History of Statistics and Probability* that first appeared in *Biometrika*.
 - [ASA History of Statistics Special Interest Group](https://twitter.com/HOS_ASA). The History of Statistics IG brings together individuals and groups with an active interest in the history of statistics, to share research and resources. An excellent X profile to follow.
+- [Statistical Ideas that Changed the World](https://www.youtube.com/playlist?list=PLt_pNkbycxqahVksaNnjz3M6759xHIZ-r). Rob Tibshirani and friends (Trevor Hastie, John Cherian, Stefan Wager, Ryan Tibshirani) interview authors of seminal papers in the field of Statistics. This is part of a project from Stanford's Stat 319 class in Winter 2024 to discuss important papers in the field. Visit [this website](https://ledaliang.github.io/journalclub/) to find the original papers, presentation slides, and summaries.
 
 ### On the History of Least Squares Estimators
 
