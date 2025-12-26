@@ -42,6 +42,10 @@ I regularly update this blog entry with references on the history of Statistics 
 - [ASA History of Statistics Special Interest Group](https://twitter.com/HOS_ASA). The History of Statistics IG brings together individuals and groups with an active interest in the history of statistics, to share research and resources. An excellent X profile to follow.
 - [Statistical Ideas that Changed the World](https://www.youtube.com/playlist?list=PLt_pNkbycxqahVksaNnjz3M6759xHIZ-r). Rob Tibshirani and friends (Trevor Hastie, John Cherian, Stefan Wager, Ryan Tibshirani) interview authors of seminal papers in the field of Statistics. This is part of a project from Stanford's Stat 319 class in Winter 2024 to discuss important papers in the field. Visit [this website](https://ledaliang.github.io/journalclub/) to find the original papers, presentation slides, and summaries.
 
+### Biographies 
+
+- Lehmann, E.L., 1994. *[Jerzy Neyman: A Biographical Memoir](https://www.nasonline.org/wp-content/uploads/2024/06/neyman-jerzy.pdf)*.
+
 ### On the History of Least Squares Estimators
 
 - Merriman, M., 1877. [*On the history of the method of least squares*](https://www.jstor.org/stable/2635472?searchText=&searchUri=&ab_segments=&searchKey=&refreqid=fastly-default%3Abbf74e23b32812d89e5009e03e640170&seq=4). _The Analyst_, _4_(2), pp.33-36.
@@ -78,4 +82,4 @@ I regularly update this blog entry with references on the history of Statistics 
 - Syll, L.P., 2024. [*Keynes and Ramsey on probability*](https://larspsyll.wordpress.com/2024/03/19/keynes-and-ramsey-on-probability/).
 - Syll, L.P., 2024. [*The Keynes-Ramsey-Savage debate on probability*](https://larspsyll.wordpress.com/2024/01/31/the-keynes-ramsey-savage-debate-on-probability-4/).
 - Gerrard, B., 2023. [*Keynes, Ramsey, and Pragmatism*](https://eprints.whiterose.ac.uk/189264/9/keynes-ramsey-and-pragmatism.pdf). _Journal of the History of Economic Thought_, _45_(3), pp.384-398.
-- [*A funny criticism of Ramsey's criticism*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3756573).
+- [*A funny critique of Ramsey's criticism*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3756573).

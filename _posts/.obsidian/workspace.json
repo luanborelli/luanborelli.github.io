@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dffddc769f88542b",
+        "id": "a76708fbd5bc65e2",
         "type": "tabs",
         "children": [
           {
-            "id": "a3e72a3f8528c008",
+            "id": "89df772a9fbff1f9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "av.jpg"
+                "file": "2024-04-12-history-of-statistics-and-econometrics.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "av"
+              "icon": "lucide-file",
+              "title": "2024-04-12-history-of-statistics-and-econometrics"
             }
           }
         ]
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 405.5,
+    "collapsed": true
   },
   "right": {
     "id": "3de8213c5e179ddf",
@@ -173,12 +176,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3e72a3f8528c008",
+  "active": "89df772a9fbff1f9",
   "lastOpenFiles": [
+    "av.jpg",
     "Pasted image 20240814000356.png",
     "Pasted image 20240507025643.png",
     "Pasted image 20240416003847.png",
-    "av.jpg",
     "2024-05-04-destructive-specialization.md",
     "Pasted image 20240504003938.png",
     "2022-01-07-leis-macroeconomicas-existem.md",
