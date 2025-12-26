@@ -32,19 +32,19 @@ I regularly update this blog entry with references on the history of Statistics 
 - Epstein, R., 2014. A History of Econometrics. Netherlands: Elsevier Science.
 - Dekker, E., 2021. Jan Tinbergen (1903-1994) and the Rise of Economic Expertise. Cambridge University Press.
 - [*ET interviews*](https://www.cambridge.org/core/journals/econometric-theory/et-interviews). The [*Econometric Theory*](https://www.cambridge.org/core/journals/econometric-theory) interview series with notable econometricians.
-- Salsburg, D. 2002. The Lady Tasting Tea: How Statistics Revolutionized Science in the Twentieth Century. United States: Henry Holt and Company.
-- Lehmann, E. L., 2011. Fisher, Neyman, and the Creation of Classical Statistics. Netherlands: Springer New York.
-- Lehmann, E.L., 2008. _Reminiscences of a statistician: The company I kept_ (pp. 116-119). New York: Springer.
 
 ### On the General History of Statistics and Probability
 
 - [*Studies in the History of Statistics and Probability*](https://www.york.ac.uk/depts/maths/histstat/bib/studies.htm). The two collections _Studies in the History of Statistics and Probability_, edited by E S Pearson and M G Kendall, Griffin 1970, and *Studies in the History of Statistics and Probability, Volume II*, edited by M G Kendall and R L Plackett, Griffin 1977, contain all of numbers I to XXXII of the occasional series *Studies in the History of Statistics and Probability* that first appeared in *Biometrika*.
 - [ASA History of Statistics Special Interest Group](https://twitter.com/HOS_ASA). The History of Statistics IG brings together individuals and groups with an active interest in the history of statistics, to share research and resources. An excellent X profile to follow.
 - [Statistical Ideas that Changed the World](https://www.youtube.com/playlist?list=PLt_pNkbycxqahVksaNnjz3M6759xHIZ-r). Rob Tibshirani and friends (Trevor Hastie, John Cherian, Stefan Wager, Ryan Tibshirani) interview authors of seminal papers in the field of Statistics. This is part of a project from Stanford's Stat 319 class in Winter 2024 to discuss important papers in the field. Visit [this website](https://ledaliang.github.io/journalclub/) to find the original papers, presentation slides, and summaries.
+- Salsburg, D. 2002. The Lady Tasting Tea: How Statistics Revolutionized Science in the Twentieth Century. United States: Henry Holt and Company.
 
 ### Biographies 
 
 - Lehmann, E.L., 1994. *[Jerzy Neyman: A Biographical Memoir](https://www.nasonline.org/wp-content/uploads/2024/06/neyman-jerzy.pdf)*.
+- Lehmann, E.L., 2008. _Reminiscences of a statistician: The company I kept_ (pp. 116-119). New York: Springer.
+- Lehmann, E. L., 2011. Fisher, Neyman, and the Creation of Classical Statistics. Netherlands: Springer New York.
 
 ### On the History of Least Squares Estimators
 
