@@ -11,14 +11,14 @@
             "id": "89df772a9fbff1f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "2024-04-12-history-of-statistics-and-econometrics.md",
-                "mode": "source",
-                "source": false
+                "aFile": "_posts/2024-04-12-history-of-statistics-and-econometrics.md",
+                "bFile": "_posts/2024-04-12-history-of-statistics-and-econometrics.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2024-04-12-history-of-statistics-and-econometrics"
+              "icon": "diff",
+              "title": "Diff: 2024-04-12-history-of-statistics-and-econometrics"
             }
           }
         ]
@@ -178,6 +178,7 @@
   },
   "active": "89df772a9fbff1f9",
   "lastOpenFiles": [
+    "2024-04-12-history-of-statistics-and-econometrics.md",
     "av.jpg",
     "Pasted image 20240814000356.png",
     "Pasted image 20240507025643.png",
@@ -204,7 +205,6 @@
     "draft/2020-06-14-to-write-well-one-has-to suffer-suffer.md",
     "draft/2020-06-10-carlos-gomes.md",
     "2024-05-06-malba-tahan.md",
-    "2024-04-12-history-of-statistics-and-econometrics.md",
     "2024-04-10-le-cam-nine-principles.md",
     "2023-09-01-a-simple-test-for-global-identification.md",
     "2018-08-10-the-international-congress-of-mathematicians.md",

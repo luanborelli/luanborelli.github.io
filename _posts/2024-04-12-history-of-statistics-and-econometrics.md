@@ -39,12 +39,26 @@ I regularly update this blog entry with references on the history of Statistics 
 - [ASA History of Statistics Special Interest Group](https://twitter.com/HOS_ASA). The History of Statistics IG brings together individuals and groups with an active interest in the history of statistics, to share research and resources. An excellent X profile to follow.
 - [Statistical Ideas that Changed the World](https://www.youtube.com/playlist?list=PLt_pNkbycxqahVksaNnjz3M6759xHIZ-r). Rob Tibshirani and friends (Trevor Hastie, John Cherian, Stefan Wager, Ryan Tibshirani) interview authors of seminal papers in the field of Statistics. This is part of a project from Stanford's Stat 319 class in Winter 2024 to discuss important papers in the field. Visit [this website](https://ledaliang.github.io/journalclub/) to find the original papers, presentation slides, and summaries.
 - Salsburg, D. 2002. The Lady Tasting Tea: How Statistics Revolutionized Science in the Twentieth Century. United States: Henry Holt and Company.
+- Todhunter, Isaac. *“A History of the Mathematical Theory of Probability: From the Time of Pascal to that of Laplace.”* United Kingdom: Cambridge University Press, 2014.
 
-### Biographies 
+### Biographical 
+
+#### Abraham Wald
+
+- Morgenstern, Oskar. “Abraham Wald, 1902-1950.” _Econometrica_ 19, no. 4 (1951): 361–67. [https://doi.org/10.2307/1907462](https://doi.org/10.2307/1907462).
+- Hotelling, Harold. “Abraham Wald.” _The American Statistician_ 5, no. 1 (1951): 18–19. [https://doi.org/10.1080/00031305.1951.10481914](https://doi.org/10.1080/00031305.1951.10481914).
+- Wolfowitz, J. “Abraham Wald, 1902-1950.” _The Annals of Mathematical Statistics_ 23, no. 1 (1952): 1–13.
+- Menger, Karl. “The Formative Years of Abraham Wald and His Work in Geometry.” _The Annals of Mathematical Statistics_ 23, no. 1 (1952): 14–20.
+- Weintraub, E.R. (1990). Abraham Wald. In: Eatwell, J., Milgate, M., Newman, P. (eds) Time Series and Statistics. The New Palgrave. Palgrave Macmillan, London. https://doi.org/10.1007/978-1-349-20865-4_42
+
+#### Jerzy Neyman
 
 - Lehmann, E.L., 1994. *[Jerzy Neyman: A Biographical Memoir](https://www.nasonline.org/wp-content/uploads/2024/06/neyman-jerzy.pdf)*.
-- Lehmann, E.L., 2008. _Reminiscences of a statistician: The company I kept_ (pp. 116-119). New York: Springer.
 - Lehmann, E. L., 2011. Fisher, Neyman, and the Creation of Classical Statistics. Netherlands: Springer New York.
+
+#### Other 
+
+- Lehmann, E.L., 2008. _Reminiscences of a statistician: The company I kept_ (pp. 116-119). New York: Springer.
 
 ### On the History of Least Squares Estimators
 
@@ -75,7 +89,7 @@ I regularly update this blog entry with references on the history of Statistics 
 
 - Riccomagno, E., 2009. [*A short history of algebraic statistics*](https://link.springer.com/article/10.1007/s00184-008-0222-3). _Metrika_, _69_(2), pp.397-418.
 
-### On Ramsey, Keynes, and Statistics
+### On Ramsey, Keynes, Probability, and Statistics
 
 - Aldrich, J., 2008. [*Keynes among the Statisticians*](https://read.dukeupress.edu/hope/article-abstract/40/2/265/38396/Keynes-among-the-Statisticians?redirectedFrom=fulltext). *History of Political Economy*, *40*(2), pp.265-316.
 - Gerrard, B., 2023. [*Ramsey and Keynes revisited*](https://academic.oup.com/cje/article/47/1/195/7005385). _Cambridge Journal of Economics_, _47_(1), pp.195-213.
@@ -83,3 +97,8 @@ I regularly update this blog entry with references on the history of Statistics 
 - Syll, L.P., 2024. [*The Keynes-Ramsey-Savage debate on probability*](https://larspsyll.wordpress.com/2024/01/31/the-keynes-ramsey-savage-debate-on-probability-4/).
 - Gerrard, B., 2023. [*Keynes, Ramsey, and Pragmatism*](https://eprints.whiterose.ac.uk/189264/9/keynes-ramsey-and-pragmatism.pdf). _Journal of the History of Economic Thought_, _45_(3), pp.384-398.
 - [*A funny critique of Ramsey's criticism*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3756573).
+
+### On the Interconnections with Microeconomic Theory
+
+- Duppe, T., and Weintraub, E.R., 2016. *[Losing equilibrium: On the existence of Abraham Wald’s fixed-point proof of 1935](https://doi.org/10.1215/00182702-3687283)*. _History of Political Economy_, 48(4). pp. 635–655.
+- Wald, Abraham. “On Some Systems of Equations of Mathematical Economics.” _Econometrica_ 19, no. 4 (1951): 368–403. [https://doi.org/10.2307/1907464](https://doi.org/10.2307/1907464).
