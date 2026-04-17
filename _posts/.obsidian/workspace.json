@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a76708fbd5bc65e2",
+        "id": "4225ad9663a25023",
         "type": "tabs",
         "children": [
           {
-            "id": "89df772a9fbff1f9",
+            "id": "047aae51c17bfe26",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "_posts/2024-04-12-history-of-statistics-and-econometrics.md",
-                "bFile": "_posts/2024-04-12-history-of-statistics-and-econometrics.md",
-                "aRef": ""
+                "file": "2024-05-02-destructive-boredom.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 2024-04-12-history-of-statistics-and-econometrics"
+              "icon": "lucide-file",
+              "title": "2024-05-02-destructive-boredom"
             }
           }
         ]
@@ -176,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89df772a9fbff1f9",
+  "active": "047aae51c17bfe26",
   "lastOpenFiles": [
     "2024-04-12-history-of-statistics-and-econometrics.md",
     "av.jpg",
