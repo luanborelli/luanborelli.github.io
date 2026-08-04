@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-02-destructive-boredom.md",
+                "file": "2025-08-12-genericity-of-matrix-invertibility.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-05-02-destructive-boredom"
+              "title": "2025-08-12-genericity-of-matrix-invertibility"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -78,77 +80,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5,
-    "collapsed": true
+    "width": 405.5
   },
   "right": {
     "id": "3de8213c5e179ddf",
     "type": "split",
     "children": [
       {
-        "id": "1a4b6fd6a7eeaa0b",
+        "id": "188af7d686ff7f50",
         "type": "tabs",
         "children": [
           {
-            "id": "80ca6d9db4219534",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "2024-09-14-Inverting-X'X.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 2024-09-14-Inverting-X'X"
-            }
-          },
-          {
-            "id": "abe52b66113a86bb",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "2024-09-14-Inverting-X'X.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 2024-09-14-Inverting-X'X"
-            }
-          },
-          {
-            "id": "2cabeb3715a88f7c",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "3e9898cf1f1d527b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "2024-09-14-Inverting-X'X.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 2024-09-14-Inverting-X'X"
-            }
-          },
-          {
-            "id": "54ff61f1b97dae63",
+            "id": "196de6d472e60cbb",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -157,8 +100,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,15 +120,17 @@
   },
   "active": "047aae51c17bfe26",
   "lastOpenFiles": [
-    "2024-04-12-history-of-statistics-and-econometrics.md",
+    "2018-08-10-the-international-congress-of-mathematicians.md",
     "av.jpg",
     "Pasted image 20240814000356.png",
     "Pasted image 20240507025643.png",
     "Pasted image 20240416003847.png",
+    "2025-08-12-genericity-of-matrix-invertibility.md",
+    "2024-05-02-destructive-boredom.md",
+    "2024-04-12-history-of-statistics-and-econometrics.md",
     "2024-05-04-destructive-specialization.md",
     "Pasted image 20240504003938.png",
     "2022-01-07-leis-macroeconomicas-existem.md",
-    "2024-05-02-destructive-boredom.md",
     "post_template.md",
     "rat.gif",
     "Pasted image 20240511013643.png",
@@ -207,12 +151,10 @@
     "2024-05-06-malba-tahan.md",
     "2024-04-10-le-cam-nine-principles.md",
     "2023-09-01-a-simple-test-for-global-identification.md",
-    "2018-08-10-the-international-congress-of-mathematicians.md",
     "draft",
     "2024-04-12-history-of-statistics-and-econometrics 1.md",
     "2024-12-16-science-and-politics.md",
     "2024-08-12-delfim-netto.md",
-    "ve.png",
-    "2024-04-09-test-post.md"
+    "ve.png"
   ]
 }

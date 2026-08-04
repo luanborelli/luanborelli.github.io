@@ -4,7 +4,7 @@ email: contato@luanborelli.net # email of site's author
 url: https://borelli.blog # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  A deliberately unorganized, highly personal blog where I write for myself and hoard whatever interests me. Posts are in English and Portuguese; Portuguese posts are mostly about Brazil-related topics. <br> <br> For daily commentary on Brazil (in Portuguese), follow my <a href="https://x.com/BorelliLuan" target="_blank">Brazilian X profile</a>. For academic commentary and work, follow my <a href="https://x.com/BorelliEcon" target="_blank">academic X profile</a> or visit my <a href="https://luanborelli.com/" target="_blank">academic website</a>. 
+  A deliberately unorganized, highly personal blog where I write for myself and hoard whatever interests me. Posts are in English and Portuguese; Portuguese posts are mostly about Brazil-related topics. For daily commentary on Brazil (in Portuguese), follow my <a href="https://x.com/BorelliLuan" target="_blank">Brazilian X profile</a>. For academic commentary and work, follow my <a href="https://x.com/BorelliEcon" target="_blank">academic X profile</a> or visit my <a href="https://luanborelli.com/" target="_blank">academic website</a>. 
 
 permalink: /:slug.html
 

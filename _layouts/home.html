@@ -2,12 +2,20 @@
 layout: default
 ---
 <header>
-  <h1>{{ site.title }}</h1>
+  <h1 class="site-title">{{ site.title }}</h1>
   {%-if site.theme_config.show_description-%}
-    <p>{{ site.description }}</p>
+    <p class="site-description">{{ site.description }}</p>
   {%-endif-%}
 </header>
 
-{%-include menu_item.html collection=site.data.menu.entries-%}
+<div class="home-menu">
+  {%-include menu_item.html collection=site.data.menu.entries-%}
+</div>
+
+<nav class="home-links" aria-label="Blog links">
+  {%-for item in site.data.menu.home_links-%}
+    <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+  {%-endfor-%}
+</nav>
 
 {{ content }}

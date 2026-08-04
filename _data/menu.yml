@@ -3,11 +3,11 @@
 
 entries:
   - title: recent posts
+    class: recent-posts-heading
     post_list:
       limit: 10
-      show_more: true
-      show_more_text: archive
-      show_more_url: archive.html
+
+home_links:
   - title: archive
     url: archive.html
   - title: rss

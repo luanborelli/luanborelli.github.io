@@ -1,3 +1,35 @@
+@font-face {
+  font-family: "Computer Modern Concrete";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/cmu-concrete/CMUConcrete-Roman.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Computer Modern Concrete";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/cmu-concrete/CMUConcrete-Italic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Computer Modern Concrete";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../fonts/cmu-concrete/CMUConcrete-Bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Computer Modern Concrete";
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../fonts/cmu-concrete/CMUConcrete-BoldItalic.woff2") format("woff2");
+}
+
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
   filter: invert(1);
@@ -25,12 +57,24 @@ html { height: 100%; }
 
 body {
   color: black;
-  font-family: monospace;
+  font-family: "Computer Modern Concrete", serif;
   font-size: 16px;
   line-height: 1.4;
   margin: 0;
   min-height: 100%;
   overflow-wrap: break-word;
+}
+
+a {
+  color: #2d2f92;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus-visible {
+  text-decoration: underline;
+  text-decoration-thickness: 0.5px;
+  text-underline-offset: 0.15em;
 }
 
 .post-meta { text-align: right; }
@@ -41,7 +85,46 @@ hr { margin: 2rem 0; }
 
 p { margin: 1rem 0; }
 
+.site-title {
+  font-size: 1.1875rem;
+}
+
+.post-title {
+  font-size: 1.5rem;
+}
+
+.site-description,
+.post-content p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 li { margin: 0.4rem 0; }
+
+.recent-posts-heading {
+  font-size: 1.0625rem;
+  font-weight: 700;
+  list-style-type: none;
+}
+
+.home-menu ul {
+  list-style-type: square;
+}
+
+.post-list {
+  list-style-type: square;
+}
+
+.post-list .post-list-date {
+  color: #666666;
+}
+
+.home-links {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  width: 100%;
+}
 
 *:target { background: yellow; }
 
