@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-08-12-genericity-of-matrix-invertibility.md",
+                "file": "2024-04-12-history-of-statistics-and-econometrics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-12-genericity-of-matrix-invertibility"
+              "title": "2024-04-12-history-of-statistics-and-econometrics"
             }
           }
         ]
@@ -99,6 +99,69 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "107b29a2ccf6a5d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-04-12-history-of-statistics-and-econometrics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "564419b7a5a60814",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-04-12-history-of-statistics-and-econometrics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "21a650db8198b193",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "81bbe5ea9c14e0b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-04-12-history-of-statistics-and-econometrics.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
           }
         ]
       }
@@ -120,12 +183,12 @@
   },
   "active": "047aae51c17bfe26",
   "lastOpenFiles": [
+    "2025-08-12-genericity-of-matrix-invertibility.md",
     "2018-08-10-the-international-congress-of-mathematicians.md",
     "av.jpg",
     "Pasted image 20240814000356.png",
     "Pasted image 20240507025643.png",
     "Pasted image 20240416003847.png",
-    "2025-08-12-genericity-of-matrix-invertibility.md",
     "2024-05-02-destructive-boredom.md",
     "2024-04-12-history-of-statistics-and-econometrics.md",
     "2024-05-04-destructive-specialization.md",

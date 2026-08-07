@@ -62,6 +62,7 @@ I regularly update this blog entry with references on the history of Statistics 
 
 ### On the History of Least Squares Estimators
 
+- Legendre, A. M., 1805. *[Sur la Méthode des moindres quarrés](https://www.york.ac.uk/depts/maths/histstat/legendre2.pdf)*. In *[Nouvelles méthodes pour la détermination des orbites des comètes](https://books.google.com/books?hl=en&lr=&id=5nJUAAAAcAAJ&oi=fnd&pg=PA1&dq=NOUVELLES+M++%CC%81ETHODESPOUR+LA+D++%CC%81ETERMINATIONDESORBITES+DES+COM+%60ETES&ots=laOvxjDMPj&sig=HwZARJcnJ9J72rcosolpFaUh-54)*.
 - Merriman, M., 1877. [*On the history of the method of least squares*](https://www.jstor.org/stable/2635472?searchText=&searchUri=&ab_segments=&searchKey=&refreqid=fastly-default%3Abbf74e23b32812d89e5009e03e640170&seq=4). _The Analyst_, _4_(2), pp.33-36.
 - Plackett, R.L., 1949. [*A historical note on the method of least squares*](https://www.jstor.org/stable/2332682?searchText=&searchUri=&ab_segments=&searchKey=&refreqid=fastly-default%3Abbf74e23b32812d89e5009e03e640170). _Biometrika_, _36_(3/4), pp.458-460.
 - Stigler, S.M., 1981. [*Gauss and the invention of least squares*](https://www.jstor.org/stable/2240811?searchText=&searchUri=&ab_segments=&searchKey=&refreqid=fastly-default%3Ac26c7703a065a10eb83d1ff2568eeb58&seq=1). _the Annals of Statistics_, pp.465-474.
