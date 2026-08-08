@@ -89,7 +89,12 @@ p { margin: 1rem 0; }
   font-size: 1.1875rem;
 }
 
+.home-site-title {
+  font-family: monospace;
+}
+
 .post-title {
+  font-family: monospace;
   font-size: 1.5rem;
 }
 
@@ -99,9 +104,23 @@ p { margin: 1rem 0; }
   text-justify: inter-word;
 }
 
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content h4,
+.post-content h5,
+.post-content h6 {
+  font-family: monospace;
+}
+
+.post-content ul {
+  list-style-type: square;
+}
+
 li { margin: 0.4rem 0; }
 
 .recent-posts-heading {
+  font-family: monospace;
   font-size: 1.0625rem;
   font-weight: 700;
   list-style-type: none;
