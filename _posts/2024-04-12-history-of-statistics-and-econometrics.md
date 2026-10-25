@@ -51,6 +51,13 @@ I regularly update this blog entry with references on the history of Statistics 
 - Menger, Karl. “The Formative Years of Abraham Wald and His Work in Geometry.” _The Annals of Mathematical Statistics_ 23, no. 1 (1952): 14–20.
 - Weintraub, E.R. (1990). Abraham Wald. In: Eatwell, J., Milgate, M., Newman, P. (eds) Time Series and Statistics. The New Palgrave. Palgrave Macmillan, London. https://doi.org/10.1007/978-1-349-20865-4_42
 
+#### David Blackwell
+
+- Black, Robert. *David Blackwell and the Deadliest Duel*. Unionville, NY: Royal Fireworks Press, 2019. [https://www.rfwp.com/bookstore/david-blackwell-and-the-deadliest-duel/](https://www.rfwp.com/bookstore/david-blackwell-and-the-deadliest-duel/).
+- DeGroot, Morris H. “A Conversation with David Blackwell.” *Statistical Science* 1, no. 1 (1986): 40–53. [https://doi.org/10.1214/ss/1177013814](https://doi.org/10.1214/ss/1177013814).
+- Blackwell, David. *An Oral History with David Blackwell*. Interview by Nadine Wilmot, 2002–2003. Berkeley: Regional Oral History Office, The Bancroft Library, University of California, 2003. [https://digicoll.lib.berkeley.edu/record/218125](https://digicoll.lib.berkeley.edu/record/218125).
+- Kirby, Linda. “Biography.” *Celebratio Mathematica*, David H. Blackwell collection, December 2011. [https://celebratio.org/Blackwell_DH/article/27/](https://celebratio.org/Blackwell_DH/article/27/).
+
 #### Jerzy Neyman
 
 - Lehmann, E.L., 1994. *[Jerzy Neyman: A Biographical Memoir](https://www.nasonline.org/wp-content/uploads/2024/06/neyman-jerzy.pdf)*.

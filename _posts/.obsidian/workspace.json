@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4225ad9663a25023",
+        "id": "f9f906d681ea5191",
         "type": "tabs",
         "children": [
           {
-            "id": "047aae51c17bfe26",
+            "id": "40553a0e5b334077",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 405.5,
+    "collapsed": true
   },
   "right": {
     "id": "3de8213c5e179ddf",
@@ -181,7 +182,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "047aae51c17bfe26",
+  "active": "40553a0e5b334077",
   "lastOpenFiles": [
     "2025-08-12-genericity-of-matrix-invertibility.md",
     "2018-08-10-the-international-congress-of-mathematicians.md",
