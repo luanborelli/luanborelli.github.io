@@ -62,6 +62,7 @@ I regularly update this blog entry with references on the history of Statistics 
 
 - Lehmann, E.L., 1994. *[Jerzy Neyman: A Biographical Memoir](https://www.nasonline.org/wp-content/uploads/2024/06/neyman-jerzy.pdf)*.
 - Lehmann, E. L., 2011. Fisher, Neyman, and the Creation of Classical Statistics. Netherlands: Springer New York.
+- Reid, Constance. *Neyman—From Life*. New York: Springer-Verlag, 1982.
 
 #### Other 
 
